@@ -8,7 +8,7 @@
 # Slippery Slopes  
 * Deployed Site- https://jamesjtuckbc.github.io/Slippery-Slopes/ 
 * Github Repository- https://github.com/jamesjtuckbc/Slippery-Slopes
- ![index.html] https://raw.githubusercontent.com/jamesjtuckbc/Slippery-Slopes/main/assets/slippery-slopes.png 
+ ![index.html](assets/slippery-slopes.png)
  
 # Work Day Planner
 * Delpoyed Site-  
