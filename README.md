@@ -5,8 +5,11 @@
 * LinkedIn profile- https://www.linkedin.com/in/juan-boza-2b60001bb/
 * Downloadable Resume- 
 
-# Project one 
-* slippery Slopes 
+# Slippery Slopes  
 * Deployed Site- https://jamesjtuckbc.github.io/Slippery-Slopes/ 
 * Github Repository- https://github.com/jamesjtuckbc/Slippery-Slopes
-  ![index.html](assets/slippery-slopes.png)
+ ![index.html] https://raw.githubusercontent.com/jamesjtuckbc/Slippery-Slopes/main/assets/slippery-slopes.png 
+ 
+# Work Day Planner
+* Delpoyed Site-  
+* Github Repository- 
